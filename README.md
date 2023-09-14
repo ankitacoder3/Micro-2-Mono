@@ -1,4 +1,4 @@
-# Micro-2-Mono
+# Mono-2-Micro
 
 ## Breaking down monoliths 🪨⛏️
 This problem statement has two objectives:
