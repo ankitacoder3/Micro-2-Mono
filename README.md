@@ -60,6 +60,10 @@ docker-compose down
 </br>
 
 ## Usage
+* Mono-2-Micro project can be used to break monoliths into microservices.
+* This is crucial to upload applications on cloud.
+* Thereby this project helps in converting stand-alone applications into cloud-based or cloud-supported applications.
+  
 ### Microservices-based architecture diagram
 <p align="center">
   <img src="Mono_2_Micro/docs/microservices-final.drawio.png" />
