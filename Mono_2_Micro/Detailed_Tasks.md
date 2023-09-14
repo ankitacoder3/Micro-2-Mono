@@ -1,17 +1,16 @@
 # Micro-2-Mono
+The project ```Mono-2-Micro``` consists of ```breaking down Monoliths into Microservices```.
 
-## Breaking down monoliths 🪨⛏️
-This problem statement has two objectives:
+## Summary
+This project has the following objectives:
 - Get familiar with reading error stack trace and debugging code.
-- Convert a monolith architecture based docker-compose application into a microservices based architecture.  
+- Convert a monolith architecture based docker-compose application into a microservices based architecture.
 
-## Requirements:
-- [docker](https://docs.docker.com/engine/) and [docker-compose](https://docs.docker.com/compose/install/). Follow the guides based on your operating system.
-- Internet. Pull docker image `python:3.8-alpine` beforehand to avoid connectivity issues.
+
 
 ## Initial directory structure
 ```
-├── README.md
+├── Detailed_Tasks.md
 ├── docs
 │   └── <documentation related images/files>
 ├── microservices
@@ -25,10 +24,7 @@ This problem statement has two objectives:
 │   │   └── Dockerfile
 │   │
 ```
-## Monolith architecture diagram
-<p align="center">
-  <img src="docs/microservices-initial.drawio.png" />
-</p>
+
 
 ## Build & Run
 ```
@@ -96,14 +92,6 @@ docker-compose down
       - ```less_than```: return ```True``` if the first value is less than the second else ```False```
       - ```equal```: return ```True``` if the first value is equal to the second else ```False```
 
-
-## Microservices-based architecture diagram
-<p align="center">
-  <img src="docs/microservices-final.drawio.png" />
-  
-<h7 align="center">The diagram only shows the services already defined within the microservice architecture for visualization purposes. You still need to add services of your own.</h7>
-
-</p>
 
 
 ## Miscellaneous
