@@ -22,7 +22,7 @@ This project has the following objectives:
 
 - ### Monolith architecture diagram
 <p align="center">
-  <img src="Mono_2_Micro/docs/microservices-initial.drawio.png" />
+  <img src="M2M/docs/microservices-initial.drawio.png" />
 </p>
 
 
@@ -67,7 +67,7 @@ docker-compose down
   
 ### Microservices-based architecture diagram
 <p align="center">
-  <img src="Mono_2_Micro/docs/microservices-final.drawio.png" />
+  <img src="M2M/docs/microservices-final.drawio.png" />
   
 <h7 align="center">The diagram only shows the services already defined within the microservice architecture for visualization purposes. More services can also be added.</h7>
 
