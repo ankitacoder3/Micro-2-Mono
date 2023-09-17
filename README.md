@@ -3,7 +3,7 @@
 # Mono-2-Micro
 
 The project ```M2M``` stands for ```Monolith-2-Microservices```.
-It consists of ```breaking down Monoliths into Microservices```.
+It consists of ```breaking down``` of ```Monoliths into Microservices```.
 
 <details>
   <summary color= blue >Table of Contents</summary>
@@ -46,7 +46,7 @@ This project has the following objectives:
 
 * Build & Run
 ```
-# under the microservices directory
+# under the microservices directory, under M2M directory
 # NOTE: For any code changes to be reflected, the build command must be rerun, and then up
 docker-compose build
 # run without the -d flag incase you want to observe the logs
@@ -61,7 +61,7 @@ docker-compose down
 </br>
 
 ## Usage
-* Mono-2-Micro project can be used to break monoliths into microservices.
+* M2M project can be used to break monoliths into microservices.
 * This is crucial to upload applications on cloud.
 * Thereby this project helps in converting stand-alone applications into cloud-based or cloud-supported applications.
   
