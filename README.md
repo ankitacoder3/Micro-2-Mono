@@ -2,7 +2,8 @@
 
 # Mono-2-Micro
 
-The project ```Mono-2-Micro``` consists of ```breaking down Monoliths into Microservices```.
+The project ```M2M``` stands for ```Monolith-2-Microservices```.
+It consists of ```breaking down Monoliths into Microservices```.
 
 <details>
   <summary color= blue >Table of Contents</summary>
